@@ -1,0 +1,1 @@
+nightly build of hdds/halld-recon/halld_sim/hdgeant4/gluex_root_analysis
