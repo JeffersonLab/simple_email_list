@@ -7,7 +7,7 @@ if ($message_length == 0) {
 open(SUBJ, "subject.txt") or die "error: subject.txt not found";
 $subject = <SUBJ>;
 chomp $subject;
-system "svn update";
+system "git pull";
 open(LIST, "list.txt") or die "error: list.txt not found";
 $addressees = '';
 while (<LIST>) {
