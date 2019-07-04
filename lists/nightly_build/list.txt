@@ -4,5 +4,5 @@ marki@jlab.org
 zihlmann@jlab.org
 pmatt@jlab.org
 romanov@jlab.org
-curtis.meyer@cmu.edu
+cmeyer@cmu.edu
 sdobbs@fsu.edu
