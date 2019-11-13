@@ -1,7 +1,6 @@
 dalton@jlab.org
 marki@jlab.org
 jrsteven@jlab.org
-pmatt@jlab.org
 sdobbs@jlab.org
 elton@jlab.org
 zhangzy@jlab.org
