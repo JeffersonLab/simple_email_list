@@ -5,3 +5,5 @@ davidl@jlab.org
 jrsteven@jlab.org
 sdobbs@jlab.org
 tbritton@jlab.org
+keigo@jlab.org
+ijaegle@jlab.org

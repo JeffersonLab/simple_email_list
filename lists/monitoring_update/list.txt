@@ -4,7 +4,6 @@ jrsteven@jlab.org
 sdobbs@jlab.org
 elton@jlab.org
 zhangzy@jlab.org
-aebarnes@jlab.org
 davidl@jlab.org
 schwarz@jlab.org
 reinhold@fiu.edu
@@ -12,7 +11,6 @@ barbosa@jlab.org
 cmeyer@cmu.edu
 zihlmann@jlab.org
 pentchev@jlab.org
-baalouch@jlab.org
 gleasonc@jlab.org
 tbritton@jlab.org
 aaustreg@jlab.org
@@ -22,3 +20,5 @@ mashephe@indiana.edu
 richard.t.jones@uconn.edu
 sfegan@jlab.org
 krishna.iisc@gmail.com
+keigo@jlab.org
+ijaegle@jlab.org
