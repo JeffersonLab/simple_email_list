@@ -2,7 +2,6 @@ marki@jlab.org
 kmoriya@jlab.org
 sdobbs@fsu.edu
 jrsteven@jlab.org
-epoos001@fiu.edu
 staylor@jlab.org
 noemi8ag@gmail.com
 aebarnes@jlab.org
@@ -11,3 +10,4 @@ romanov@jlab.org
 tbritton@jlab.org
 mkame006@fiu.edu
 sdobbs@jlab.org
+zihlmann@jlab.org
