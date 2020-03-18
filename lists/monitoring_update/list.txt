@@ -1,7 +1,8 @@
+keigo@jlab.org
+sdobbs@jlab.org
 dalton@jlab.org
 marki@jlab.org
 jrsteven@jlab.org
-sdobbs@jlab.org
 elton@jlab.org
 zhangzy@jlab.org
 davidl@jlab.org
@@ -20,8 +21,11 @@ mashephe@indiana.edu
 richard.t.jones@uconn.edu
 sfegan@jlab.org
 krishna.iisc@gmail.com
-keigo@jlab.org
 ijaegle@jlab.org
 jzarling@jlab.org
 billlee@jlab.org
 nsj@cmu.edu
+mmccracken@washjeff.edu
+kenneth.livingston@glasgow.ac.uk
+omcortes@email.gwu.edu
+j.fitches.1@research.gla.ac.uk
