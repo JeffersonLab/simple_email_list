@@ -12,7 +12,6 @@ barbosa@jlab.org
 cmeyer@cmu.edu
 zihlmann@jlab.org
 pentchev@jlab.org
-gleasonc@jlab.org
 tbritton@jlab.org
 aaustreg@jlab.org
 staylor@jlab.org
