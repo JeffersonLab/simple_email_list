@@ -35,7 +35,6 @@ A.Ali@gsi.de
 cpaud001@fiu.edu
 salgado@jlab.org
 aschick@umass.edu
-kluckas@jlab.org
 annika.thiel@glasgow.ac.uk
 nacer@jlab.org
 susansch@jlab.org
