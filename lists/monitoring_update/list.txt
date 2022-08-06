@@ -37,7 +37,6 @@ salgado@jlab.org
 aschick@umass.edu
 annika.thiel@glasgow.ac.uk
 nacer@jlab.org
-susansch@jlab.org
 somov@jlab.org
 ganl@uncw.edu
 aps55@duke.edu
