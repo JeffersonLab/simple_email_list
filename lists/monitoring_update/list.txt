@@ -25,7 +25,7 @@ billlee@jlab.org
 nsj@cmu.edu
 mmccracken@washjeff.edu
 kenneth.livingston@glasgow.ac.uk
-omcortes@email.gwu.edu
+omcortes@jlab.org
 j.fitches.1@research.gla.ac.uk
 terbo001@fiu.edu
 hkourkou@phys.uoa.gr
@@ -39,5 +39,4 @@ nacer@jlab.org
 somov@jlab.org
 ganl@uncw.edu
 aps55@duke.edu
-miskimen@umass.edu
 malte@jlab.org
