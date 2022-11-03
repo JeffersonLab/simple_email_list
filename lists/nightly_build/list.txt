@@ -1,5 +1,4 @@
 staylor@jlab.org
-davidl@jlab.org
 marki@jlab.org
 zihlmann@jlab.org
 romanov@jlab.org
