@@ -23,7 +23,6 @@ jzarling@jlab.org
 billlee@jlab.org
 nsj@cmu.edu
 mmccracken@washjeff.edu
-kenneth.livingston@glasgow.ac.uk
 omcortes@jlab.org
 j.fitches.1@research.gla.ac.uk
 terbo001@fiu.edu
@@ -33,9 +32,5 @@ A.Ali@gsi.de
 cpaud001@fiu.edu
 salgado@jlab.org
 aschick@umass.edu
-annika.thiel@glasgow.ac.uk
-nacer@jlab.org
 somov@jlab.org
-ganl@uncw.edu
-aps55@duke.edu
 malte@jlab.org
