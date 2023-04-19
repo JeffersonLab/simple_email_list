@@ -4,3 +4,5 @@ zihlmann@jlab.org
 aaustreg@jlab.org
 sdobbs@fsu.edu
 jrsteven@jlab.org
+bgrube@jlab.org
+peter.hurck@glasgow.ac.uk
